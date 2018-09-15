@@ -9,7 +9,7 @@ const startGetPages = async (page) => {
   
   console.log(await page.content)
 
-  // console.log(hrefList)
+  
 }
 
 (async () => {
